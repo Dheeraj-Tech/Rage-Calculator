@@ -12,6 +12,7 @@ for i in tqdm (range (1000), desc="Loading..."):
 #Prefixes
 print('''            |||||||||||||||||||||||||||||||||||||||||||||||||Welcome To Detto Calculatio||||||||||||||||||||||||||||||||||||||||||||||
                                                                                                                                                 Version - 1.02.B''')
+
 print(''' What is New In the Version 1.02.B ?
 1>Loading Bar Added 
 2> Added 3 New Operations -> Modulus,Exponentiation and Floor Division''')#<-For Users
