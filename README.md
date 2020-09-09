@@ -13,17 +13,22 @@ Everyone Likes to make Programs and even when you are doing Python but you are j
 > children and begineers in Python to make __**Great**__
 > __**programs**__
 
-# Getting on GitHub...
+# Getting on GitHub & GitLab ...
 Well, the question comes how I am gonna Share it.
 
-- But [GitHub](http://github.com) can help.
+- But [GitHub](https://github.com) and [GitLab](https://gitlab.com) can help.
 
-> **GitHub** is an American multinational corporation that provides hosting for software development
+> **GitHub** is an American multinational corporation that provides hosting for software development.
+
+> **GitLab** is a web-based DevOps lifecycle tool that provides a Git-repository manager.
 
 So,now this problem is solved... 👍
 The Link from where you can get all the codes is ↓
 
-[Rage Calculator](https://github.com/Dheeraj-Tech/Rage-Calculator)
+[Rage Calculator on GitHub](https://github.com/Dheeraj-Tech/Rage-Calculator)
+
+[Rage Calculator on GitLab](https://gitlab.com/Dheeraj-Tech/Rage-Calculator)
+
 | All The Versions 
 | ------ |
 | 1.01.A | [PlDb] 
