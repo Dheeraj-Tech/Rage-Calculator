@@ -1,6 +1,7 @@
 #Prefixes
 print('''            |||||||||||||||||||||||||||||||||||||||||||||||||Welcome To Rage Calculator||||||||||||||||||||||||||||||||||||||||||||||
                                                                                                                                                 Version - 1.01.A''')
+
 #The types of operations
 print('''
 All the Possible Operations :
