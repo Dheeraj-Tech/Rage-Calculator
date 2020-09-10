@@ -32,7 +32,7 @@ These Are All the Possible Operations :
 You can write the sign or the name
 ''')
 
-#Program For The Calculator
+# Program For The Calculator
 while True :
     a = int(input("Enter The First Number "))
     b = int(input("Enter The Second Number "))
