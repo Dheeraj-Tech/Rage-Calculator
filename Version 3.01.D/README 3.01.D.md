@@ -10,7 +10,7 @@ This Version is  special...
 ## Features
 - **Added Comparison Operators**
 -- Now you can compare numbers. 
--- This was one of the best thing that I made in this *2.03.C*
+-- This was one of the best thing that I made in this *3.01.D*
 -- That's why our calcualator is better than others.
 
 - **Introducing Dettio**
