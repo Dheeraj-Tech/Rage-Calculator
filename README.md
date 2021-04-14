@@ -40,14 +40,7 @@ __**More Versions Coming Soon**__
 
 ## So, Coders now get started, Because Coding would be the best thing you would have ever learnt
 ## And Don't be afraid of failing because
-> “You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.”
-
-# License
-Well,there is no License...
-
-There is no problem in sharing and editing this file.
-                                                                        
-But I would Say Pls don't edit and share for contribution efforts. 
+> “You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.” 
 
 Happy Coding,
 
